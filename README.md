@@ -2,7 +2,7 @@
 
 Fiz esse site para divulgar a equipe de trabalho incrivel que eu participo! 
 
-Prototipo criado <a href="https://www.figma.com/file/fnayTC7vCARDn1aYsc6OGw/Prototipo-site?node-id=0%3A1" target="_blank" rel="noopener noreferrer">Figma</a>
+Prototipo criado no [Figma](https://www.figma.com/community/file/1214942437566415899)
 
 Links das imagens e icones: 
 
